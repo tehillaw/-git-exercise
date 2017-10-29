@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+
+*.opendb
+*.db
+*.vs
+Debug
+Release
